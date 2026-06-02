@@ -1,1 +1,3 @@
 # sexalogist
+sexalogist.path
+...sexalogist
